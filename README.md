@@ -1,4 +1,3 @@
-# exerc-cio.c-..
 
 #include <stdlib.h>
 #include <stdio.h>
